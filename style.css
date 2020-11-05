@@ -36,7 +36,6 @@ section {
     background-color: #F5F5F5;
     font-size: 20px;
     max-width: 600px;
-    height: 100px;
     padding: 20px;
     display: grid;
     align-items: center;
@@ -58,4 +57,5 @@ section {
     border-radius: 10px;
     box-shadow: 5px 5px 20px #bababa;
     margin: 10px;
+    max-width: 80vw;
 }
